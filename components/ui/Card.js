@@ -17,7 +17,7 @@ const styles = StyleSheet.create({
   card: {
     justifyContent: 'center',
     alignItems: 'center',
-    marginTop: deviceWidth < 380 ? 18 : 36,
+    marginTop: deviceWidth < 720 ? 18 : 36,
     marginHorizontal: 24,
     padding: 16,
     backgroundColor: Colors.primary800,
