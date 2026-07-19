@@ -32,25 +32,24 @@ npx expo start
 ```
 
 ## 📸 Screenshots
+### Home
 
-<table>
-  <tr>
-    <th>Home</th>
-    <th>Game</th>
-    <th>Game Over</th>
-  </tr>
-  <tr>
-    <td>
-      <img src="./screenshots/home.jpeg" alt="Home" width="250">
-    </td>
-    <td>
-      <img src="./screenshots/game.jpeg" alt="Game" width="250">
-    </td>
-    <td>
-      <img src="./screenshots/gameover.jpeg" alt="Game Over" width="250">
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./screenshots/home.jpeg" alt="Home" width="300" />
+</p>
+
+### Game
+
+<p align="center">
+  <img src="./screenshots/game.jpeg" alt="Game" width="300" />
+</p>
+
+### Game Over
+
+<p align="center">
+  <img src="./screenshots/gameover.jpeg" alt="Game Over" width="300" />
+</p>
+
 
 
 ## 🛠️ Technologies
